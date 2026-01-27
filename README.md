@@ -1,12 +1,13 @@
 # AI Study Planner
 
-An intelligent study planner web app that integrates with Canvas LMS to help students organize their assignments and create optimized study schedules.
+An intelligent study planner web app that integrates with Canvas LMS and google API calendar to help students organize their assignments and create optimized study schedules.
 
 ## Features
 
 ### MVP (Current Version)
 - **Google OAuth Authentication** - Secure login with Convex Auth
 - **Canvas LMS Integration** - Sync courses and assignments automatically
+- Google calendar to sync any reminders
 - **Smart Schedule Generation** - Rule-based algorithm creates personalized study schedules
 - **Interactive Calendar** - Visual weekly calendar with react-big-calendar
 - **Assignment Dashboard** - Track assignments, deadlines, and completion status
